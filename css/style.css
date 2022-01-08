@@ -153,6 +153,7 @@ body{
     color: #fff;
     font-size: 60px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .text-result button{
